@@ -2,6 +2,8 @@ Product-oriented software developer with experience building complex SaaS platfo
 building elegant products that stand the test of time. I get my greatest sense of achievement when I know that the UI, code and systems that I develop will have a 
 lasting impact
 
+Proficiencies: HTML, CSS, JavaScript, Typescript, jQuery, React.js, Next.js, Storybook, Material UI, Node.js, Tailwind CSS, SASS, Capacitor
+
 [Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_resume_(cv)_2023.pdf)
 
 <!--
