@@ -1,4 +1,4 @@
-### Hi there 👋
+[Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_resume_(cv)_2023.pdf)
 
 <!--
 **erikksuzuki/erikksuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
