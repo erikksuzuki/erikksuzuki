@@ -1,3 +1,7 @@
+Product-oriented software developer with experience building complex SaaS platforms, with a background in design and an eye for detail. What drives my work is 
+building elegant products that stand the test of time. I get my greatest sense of achievement when I know that the UI, code and systems that I develop will have a 
+lasting impact
+
 [Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_resume_(cv)_2023.pdf)
 
 <!--
