@@ -4,7 +4,7 @@ lasting impact
 
 Proficiencies: HTML, CSS, JavaScript, Typescript, jQuery, React.js, Next.js, Storybook, Material UI, Node.js, Tailwind CSS, SASS, Capacitor
 
-[Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_resume_(cv)_2023.pdf)
+[Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_cv_2023.pdf)
 
 <!--
 **erikksuzuki/erikksuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
