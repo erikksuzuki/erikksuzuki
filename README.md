@@ -1,12 +1,12 @@
-Product-oriented software developer having experience building complex SaaS platforms, with a background in design and an eye for detail. What drives my work is 
-building elegant products that stand the test of time. I get my greatest sense of achievement when I know that the UI, code and systems that I develop will have a 
-lasting impact
+Product-oriented Software Engineer with experience building complex SaaS (Software as a Service) platforms and SPAs (Single Page Applications). I come from a background in web design. What drives my work is building elegant products that stand the test of time. I get my greatest sense of achievement when I know that the UI, code and systems that I develop will have a lasting impact
 
-Frontend Experience: 
-JavaScript, Typescript, jQuery, React.js, Next.js, Tailwind CSS, 
+### Frontend Experience: 
 
-Backend Experience:
-Next.js, Supabase, Firebase, Node.js, REST API development, 
+JavaScript, Typescript, jQuery, React.js, Next.js, Tailwind CSS
+
+### Backend Experience:
+
+Next.js, Supabase, Firebase, Node.js, REST API development
 
 [Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_cv_2023.pdf)
 
