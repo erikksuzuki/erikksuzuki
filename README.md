@@ -1,4 +1,4 @@
-Product-oriented Software Engineer with experience building complex SaaS (Software as a Service) platforms and SPAs (Single Page Applications). I come from a background in web design. What drives my work is building elegant products that stand the test of time. I get my greatest sense of achievement when I know that the UI, code and systems that I develop will have a lasting impact
+Product Engineer with experience building complex Software-as-a-Service platforms and SPAs (Single Page Applications). I come from a background in web design. I get my greatest sense of achievement when I know that the UI, code and systems that I develop will have a lasting impact
 
 Founder of Alkemyst, a suite of divination tools that I built over a number of years through various iterations, that I am now in the process of consolidating into a single New Age lifestyle platform. You can view the website at [https://alkemyst.co](https://alkemyst.co)
 
