@@ -2,11 +2,11 @@ Product Engineer experienced in building complex Software-as-a-Service platforms
 
 ### Frontend Experience: 
 
-JavaScript, Typescript, jQuery, React.js, Next.js, Tailwind CSS
+JavaScript, Typescript, jQuery, React.js, Next.js, Tailwind CSS, Storybook, Zod, Vercel, 
 
 ### Backend Experience:
 
-Next.js, Supabase, Firebase, Node.js, REST API development
+Next.js, Supabase, Firebase, Node.js, REST API development, Docker
 
 [Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_cv_2023.pdf)
 
