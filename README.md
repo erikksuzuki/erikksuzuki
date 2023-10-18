@@ -1,4 +1,4 @@
-Product Engineer experienced in building complex Software-as-a-Service platforms. I come from a background in design, and specialize in front-end architecture and building pixel-perfect, customized UI component libraries from the ground up using low-level code. I get my greatest sense of achievement when I know that the UX and systems that I develop will have a lasting impact.
+Product Engineer experienced in building complex Software-as-a-Service platforms. I come from a background in design and specialize in front-end architecture and building pixel-perfect, customized UI component libraries from the ground up using low-level code. I get my greatest sense of achievement when I know that the UX and systems that I develop will have a lasting impact.
 
 ### Frontend Experience: 
 
