@@ -1,4 +1,7 @@
-Product Engineer experienced in building complex Software-as-a-Service platforms. I come from a background in design and specialize in front-end architecture and building pixel-perfect, customized UI component libraries from the ground up using low-level code. Build it right once so you'll refactor less in the future is my design philosophy. I get my greatest sense of achievement when I know that the UX and systems that I develop will have a lasting impact.
+Eric is a Product Engineer experienced in building complex Software-as-a-Service platforms, specializing in front-end architecture and building pixel-perfect, customized UI component libraries from the ground up using granular code. In the past decade, he's worked with trailblazing crypto-related companies such as Gemini and Freeport, lived in more than five countries and traveled to over 10 cities spanning Los Angeles to Tokyo. 
+
+He's a major geek, sci-fi fan and film aficionado, and his other hobbies and interests include metaphysics, religion and classic rock. When he's not coding, he spends his days with his girlfriend playing video games and building things in worlds similar to Minecraft, No Man's Sky and Tears of the Kingdom. He gets his greatest sense of achievement building and developing things that have a lasting impact.
+
 
 ### Frontend Experience: 
 
