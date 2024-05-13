@@ -11,7 +11,10 @@ JavaScript, Typescript, jQuery, React.js, Next.js, Zustand, Tailwind CSS, Storyb
 
 Next.js, Supabase, Firebase, Node.js, REST API development, Docker
 
+### Personal links
+
 [Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_cv_2024_lean.pdf)
+[Read my main blog].(https://emptyblueprints-blog.tumblr.com)
 
 <!--
 **erikksuzuki/erikksuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
