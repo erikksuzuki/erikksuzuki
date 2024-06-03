@@ -12,7 +12,7 @@ Next.js, Supabase, Firebase, Node.js, REST API development, Docker
 
 ### Personal links
 
-[Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_cv_2024_lean.pdf)
+[Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_cv_2024_with_portfolio.pdf)
 
 [Visit my online portfolio](https://emptyblueprints.art)
 
