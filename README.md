@@ -1,7 +1,6 @@
-Eric is a Product Engineer experienced in building complex Software-as-a-Service platforms, specializing in front-end architecture and building pixel-perfect, customized UI component libraries from the ground up using granular code. In the past decade, he's worked with trailblazing crypto-related companies such as Gemini and Freeport to improve the experience of their platforms.
+I'm a Product Engineer experienced with complex Software-as-a-Service platforms, specializing in building, optimizing and testing front-end features, architecture and pixel-perfect component libraries from the ground up.
 
-He's a major geek, sci-fi fan and film aficionado, and his other hobbies and interests include metaphysics, religion and classic rock and literature. He gets his greatest sense of achievement building and developing things that have a lasting impact.
-
+In the past decade, I've worked with some trailblazing crypto-related companies such as Gemini and Freeport and my career has featured Web3 projects prominently. I'm a major geek, sci-fi fan and film aficionado, and my other hobbies and interests include metaphysics, religion, classic rock and literature.
 
 ### Frontend Experience: 
 
