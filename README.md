@@ -14,7 +14,7 @@ Next.js, Supabase, Firebase, Node.js, REST API development, Docker
 
 [Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_cv_2024_lean.pdf)
 
-[Read my main blog](https://emptyblueprints-blog.tumblr.com)
+[Visit my online portfolio](https://emptyblueprints.art)
 
 <!--
 **erikksuzuki/erikksuzuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
