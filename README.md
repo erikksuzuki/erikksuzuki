@@ -29,7 +29,7 @@ And Next.js / Supabase REST API development
 
 ### Personal links
 
-[Click here to read my resume](https://archived.alkemyst.app/eric_suzuki_cv_2024_with_portfolio.pdf)
+[Click here to read my resume](https://alkemyst.online/eric_suzuki_cv_2024_with_portfolio%20(3).pdf)
 
 [Visit my online portfolio](https://alkemyst.online)
 
