@@ -1,4 +1,4 @@
-I'm a Product Engineer experienced with complex Software-as-a-Service platforms, specializing in building, optimizing and testing front-end features, architecture and pixel-perfect component libraries from the ground up.
+I'm a Senior Product Engineer experienced with complex Software-as-a-Service platforms, specializing in building, optimizing and testing front-end features, architecture and pixel-perfect component libraries from the ground up.
 
 In the past decade, I've worked with some trailblazing crypto-related companies such as Gemini and Freeport and my career has featured Web3 projects prominently. I'm a major geek, sci-fi fan and film aficionado, and my other hobbies and interests include metaphysics, religion, classic rock and literature.
 
