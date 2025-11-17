@@ -2,7 +2,7 @@ I'm a Senior Product Engineer experienced with complex Software-as-a-Service pla
 
 In the past decade, I've worked with some trailblazing crypto-related companies such as Gemini and Freeport and my career has featured Web3 projects prominently. I'm a major sci-fi and and film enthusiast, and my other hobbies and interests include metaphysics, religion, classic rock and literature.
 
-### Frontend, UI/UX Experience: 
+### Frontend & UI/UX Experience: 
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,10 +26,11 @@ In the past decade, I've worked with some trailblazing crypto-related companies 
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 
-### Full-stack Experience:
+### Sever-side & DevOps Experience:
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-ffffff?logo=n8n&style=for-the-badge&color=ea4b71&logoColor=ffffff)
+![Sevalla](https://img.shields.io/badge/sevalla-orange?style=for-the-badge&logo=eightsleep&logoColor=black)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node express](https://img.shields.io/badge/Node%20express-ffffff?logo=express&style=for-the-badge&color=272727&logoColor=47ff00)
 ![Openai](https://img.shields.io/badge/Openai-ffffff?logo=openai&style=for-the-badge&color=ffffff&logoColor=412991)
